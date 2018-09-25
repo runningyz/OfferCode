@@ -1,4 +1,9 @@
-class Solution {
+package main.java.MajorityElement_169;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Solution {
     public int majorityElement(int[] nums) {
         int overflow = nums.length/2;
         Map<Integer,Integer> map = new HashMap<>();

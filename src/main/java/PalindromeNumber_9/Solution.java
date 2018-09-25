@@ -1,4 +1,4 @@
-package PalindromeNumber_9;
+package main.java.PalindromeNumber_9;
 
 public class Solution {
     public static void main(String args[])

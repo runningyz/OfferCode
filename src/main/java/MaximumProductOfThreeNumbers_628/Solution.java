@@ -1,4 +1,8 @@
-class Solution {
+package main.java.MaximumProductOfThreeNumbers_628;
+
+import java.util.Arrays;
+
+public class Solution {
     public int maximumProduct(int[] nums) {
         Arrays.sort(nums);
          //One of the Three Numbers is the maximum value in the array.

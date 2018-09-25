@@ -1,4 +1,6 @@
-class Solution {
+package main.java.LargestNumberAtLeastTwiceOfOthers_747;
+
+public class Solution {
     public int dominantIndex(int[] nums) {
         int maxIndex = -1;
         int max = Integer.MIN_VALUE;

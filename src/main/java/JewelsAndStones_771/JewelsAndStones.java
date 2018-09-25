@@ -1,4 +1,4 @@
-package JewelsAndStones_771;
+package main.java.JewelsAndStones_771;
 public class JewelsAndStones{
     public static void main(String[] args){
         System.out.println(Solution.numJewelsInStones("aA","aAAbbBB"));

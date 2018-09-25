@@ -1,4 +1,4 @@
-package HammingDistance_461;
+package main.java.HammingDistance_461;
 
 public class HammingDistance {
     public static void main(String[] args){

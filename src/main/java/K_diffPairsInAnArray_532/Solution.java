@@ -1,4 +1,11 @@
-class Solution {
+package main.java.K_diffPairsInAnArray_532;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+public class Solution {
     public int findPairs(int[] nums, int k) {
         int counter = 0;
         int realLen = nums.length;

@@ -1,4 +1,4 @@
-package JudgeRouteCircle_657;
+package main.java.JudgeRouteCircle_657;
 
 public class JudgeRouteCircle {
     public static void main(String[] args){

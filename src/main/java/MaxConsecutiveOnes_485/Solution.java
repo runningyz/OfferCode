@@ -1,4 +1,6 @@
-class Solution {
+package main.java.MaxConsecutiveOnes_485;
+
+public class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
         int prevLen = 0;
         int currentLen = 0;

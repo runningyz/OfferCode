@@ -1,9 +1,10 @@
+package main.java.FindAllNumbersDisappearedInAnArray_448;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-class Solution {
+public class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> list = new ArrayList<>();
         Set<Integer> set = new HashSet<>();

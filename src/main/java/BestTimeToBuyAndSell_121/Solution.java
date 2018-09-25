@@ -1,3 +1,5 @@
+package main.java.BestTimeToBuyAndSell_121;
+
 class Solution {
     public int maxProfit(int[] prices) {
         int maxDiff = 0;

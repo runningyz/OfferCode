@@ -1,4 +1,6 @@
-class Solution {
+package main.java.CanPlaceFlowers;
+
+public class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int planted = 0;
         for(int i =0;i<flowerbed.length;i++){

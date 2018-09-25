@@ -1,3 +1,7 @@
+package main.java._1bitAnd2bitCharacters_717;
+
+import java.util.Stack;
+
 class Solution {
     public boolean isOneBitCharacter(int[] bits) {
         boolean oneBit = false;
