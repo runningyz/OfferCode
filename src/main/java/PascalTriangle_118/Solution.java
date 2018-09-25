@@ -1,4 +1,9 @@
-class Solution {
+package main.java.PascalTriangle_118;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Solution {
     public List<List<Integer>> generate(int numRows) {
         int[][] array = new int[numRows][numRows];
         List<List<Integer>> list = new ArrayList<>();

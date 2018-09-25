@@ -1,4 +1,6 @@
-class Solution {
+package main.java.ArrayPartition1_561;
+
+public class Solution {
     public int arrayPairSum(int[] nums) {
         quickSort(0,nums.length-1,nums);
         int minSum = 0;
