@@ -1,4 +1,4 @@
-package SelfDividingNumbers;
+package main.java.SelfDividingNumbers;
 
 import java.util.ArrayList;
 import java.util.List;

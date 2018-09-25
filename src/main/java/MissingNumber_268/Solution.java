@@ -1,4 +1,6 @@
-class Solution {
+package main.java.MissingNumber_268;
+
+public class Solution {
     public int missingNumber(int[] nums) {
         int len = nums.length;
         int[] array = new int[len+1];

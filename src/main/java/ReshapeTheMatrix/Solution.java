@@ -1,4 +1,6 @@
-class Solution {
+package main.java.ReshapeTheMatrix;
+
+public class Solution {
     public int[][] matrixReshape(int[][] nums, int r, int c) {
         int size = 0;
         int[] store = new int[c*r];

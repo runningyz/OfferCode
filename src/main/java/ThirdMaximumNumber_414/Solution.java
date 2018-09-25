@@ -1,4 +1,9 @@
-class Solution {
+package main.java.ThirdMaximumNumber_414;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Solution {
     public int thirdMax(int[] nums) {
         int[] maxArray = new int[3];
         Set<Integer> set = new HashSet<>();

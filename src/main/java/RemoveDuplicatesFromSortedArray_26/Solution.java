@@ -1,4 +1,9 @@
-class Solution {
+package main.java.RemoveDuplicatesFromSortedArray_26;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Solution {
     public int removeDuplicates(int[] nums) {
         if(nums.length <= 1)
             return nums.length;

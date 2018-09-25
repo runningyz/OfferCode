@@ -1,4 +1,5 @@
-class Solution {
+package main.java.SearchInsertPosition_35;
+public class Solution {
     public int searchInsert(int[] nums, int target) {
         int cursor = 0;
         int index = -1;

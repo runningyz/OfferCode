@@ -1,4 +1,9 @@
-class Solution {
+package main.java.MergeSortedArray_88;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         List<Integer> merged = new ArrayList<>();
         int cursor1 = 0;

@@ -1,4 +1,9 @@
-class Solution {
+package main.java.PascalTriangle2_119;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Solution {
     public List<Integer> getRow(int rowIndex) {
         int[] prevArray = new int[1];
         rowIndex += 1;

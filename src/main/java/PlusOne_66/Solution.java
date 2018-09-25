@@ -1,4 +1,6 @@
-class Solution {
+package main.java.PlusOne_66;
+
+public class Solution {
     public int[] plusOne(int[] digits) {
         int cursor = digits.length-1;
         boolean stop = false;

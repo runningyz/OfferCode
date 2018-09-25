@@ -1,4 +1,6 @@
-class Solution {
+package main.java.ToeplitzMatrix_766;
+
+public class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {
         boolean result = true;
         int row = matrix.length;

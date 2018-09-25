@@ -1,4 +1,6 @@
-class Solution {
+package main.java.RotateArray_189;
+
+public class Solution {
     public void rotate(int[] nums, int k) {
         int len = nums.length;
         k %= len;

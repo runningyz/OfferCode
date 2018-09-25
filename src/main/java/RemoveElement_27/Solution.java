@@ -1,4 +1,6 @@
-class Solution {
+package main.java.RemoveElement_27;
+
+public class Solution {
     public int removeElement(int[] nums, int val) {
         int counter = 0;
         int result = 0;

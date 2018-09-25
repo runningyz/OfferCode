@@ -1,3 +1,5 @@
+package main.java.ReverseInteger_7;
+
 public class ReverseInteger{
 	public static void main(String args[]){
 		System.out.println(Solution.reverse(1534236469));

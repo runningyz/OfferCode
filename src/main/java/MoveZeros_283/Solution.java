@@ -1,4 +1,6 @@
-class Solution {
+package main.java.MoveZeros_283;
+
+public class Solution {
     public void moveZeroes(int[] nums) {
         int counter = 0;
         for(int i = 0;i<nums.length;i++){
